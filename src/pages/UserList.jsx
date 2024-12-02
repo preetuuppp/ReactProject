@@ -1,5 +1,3 @@
-// src/pages/UserList.jsx
-
 import React from "react";
 import Card from "../components/Card";
 import { useFilterContext } from "../context/FilterContext";

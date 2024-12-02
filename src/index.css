@@ -3,8 +3,3 @@
 @tailwind utilities;
 
 
-select {
-  appearance: none; /* Remove default dropdown styling */
- 
-}
-
